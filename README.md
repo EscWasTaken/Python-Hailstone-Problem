@@ -2,8 +2,6 @@
 
 This is a working Python program that shows the Hailstone Problem in action and details what its doing to bring you to the final solution, which is as far as we can tell, always 1.
 
-[TOC]
-
 ------
 
 ## What is the Hailstone Problem?
