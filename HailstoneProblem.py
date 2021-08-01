@@ -7,6 +7,8 @@ def checkAndWrite(line):
         file.write("\n" + line)
         file.close()
 
+print('This script is licensed under the MIT license and can be found as LICENSE in folder this script came from or at https://github.com/EscWasTaken/Python-Hailstone-Problem/blob/main/LICENSE')
+
 baseNum = int(input('Enter any integer or leave blank for a random number between 2 & 10 Million: '))
 if baseNum == "":
     baseNum = random.randint(2,10000000)
